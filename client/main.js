@@ -9,7 +9,7 @@ Template.hello.onCreated(function helloOnCreated() {
 });
 
 Template.hello.helpers({
-  counter() {
+  contadorTemplate() {
     return Template.instance().contador.get();
   }
 });
