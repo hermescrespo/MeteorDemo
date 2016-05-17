@@ -1,25 +1,16 @@
 <head>
-  <title>Contador - MeteorDemo</title>
+    <title>Microscope</title>
 </head>
-
 <body>
-  <h1>Bienvenidos a Meteor !</h1>
-
-  {{> hello}}
-  {{> info}}
-
+<div class="container">
+    <!--navbar y navbar-* son clases definidas en boostrap-->
+    <header class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">Microscopio</a>
+        </div>
+    </header>
+    <div id="main">
+        {{> postsList}}
+    </div>
+</div>
 </body>
-
-<template name="hello">
-  <button>Presióname</button>
-  <p>Presionaste el botón {{contadorTemplate}} veces.</p>
-</template>
-
-<template name="info">
-  <h2>Aprende Meteor en VirtualSoft Academy !</h2>
-  <ul>
-    <li><a href="https://www.virtualsoftacademy.com">Curso Online en VirtualSoft Academy</a></li>
-    <li><a href="http://guide.meteor.com">Guía en Inglés</a></li>
-    <li><a href="https://docs.meteor.com">Documentación oficial</a></li>
-  </ul>
-</template>
