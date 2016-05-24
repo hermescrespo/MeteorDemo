@@ -1,0 +1,13 @@
+<template name="layout">
+    <div class="container">
+        <!--navbar y navbar-* son clases definidas en boostrap-->
+        <header class="navbar navbar-default" role="navigation">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="{{pathFor 'postsList'}}">Microscopio</a>
+            </div>
+        </header>
+        <div id="main">
+            {{> yield}}
+        </div>
+    </div>
+</template>
