@@ -20,5 +20,3 @@
 //     instance.contador.set(instance.contador.get() + 1);
 //   }
 // });
-//(2) Nos suscribimos a la publicación en el cliente
-Meteor.subscribe('posts');
