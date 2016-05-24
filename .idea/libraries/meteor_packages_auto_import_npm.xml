@@ -84,7 +84,13 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/client_session.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/server_session.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/session.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/index.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/read.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/text.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/raw.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/webpack.config.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/json.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/client.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/server.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.5.10/npm/node_modules/es5-shim/es5-sham.min.js" />
@@ -290,7 +296,13 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/client_session.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/server_session.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ddp-server/1.2.6/npm/node_modules/permessage-deflate/lib/session.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/index.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/read.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/text.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/raw.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/webpack.config.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/urlencoded.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/iron_router/1.0.12/npm/node_modules/body-parser/lib/types/json.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/client.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/ecmascript-runtime/0.2.10/npm/node_modules/meteor-ecmascript-runtime/server.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/es5-shim/4.5.10/npm/node_modules/es5-shim/es5-sham.min.js" />
