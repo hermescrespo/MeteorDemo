@@ -4,5 +4,5 @@
 
 //(1) publicamos los datos a mostrar al cliente...
 Meteor.publish('posts', function () {
-   return Posts.find(); 
+   return Posts.find({'author':'VirtualSoft Academy'});
 });

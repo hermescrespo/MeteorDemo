@@ -16,8 +16,15 @@
 //         url: 'http://themeteorbook.com'
 //     }
 // ];
+// Template.postsList.helpers({
+//     posts: function () {
+//         return Posts.find();
+//     }
+// });
+
 Template.postsList.helpers({
-    posts: function () {
-        return Posts.find();
+    posts: function(){
+        return Posts.find({author: 'VirtualSoft Academy', url: 'http://www.virtualsoftacademy.com/meteor'});
     }
 });
+
