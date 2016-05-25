@@ -2,14 +2,8 @@
 
 <template name="layout">
     <div class="container">
-        <!--navbar y navbar-* son clases definidas en boostrap-->
-        <header class="navbar navbar-default" role="navigation">
-            <div class="navbar-header">
+        {{> header}}
 
-                <!--Routing: El helper pathFor siempre obtendrá la URL correcta, dada una ruta-->
-                <a class="navbar-brand" href="{{pathFor 'postsList'}}">{{pageTitle}}</a>
-            </div>
-        </header>
         <div id="main">
             {{> yield}} <!--Routing: El router toma el control del contenido, ello se indica con yield-->
         </div>
