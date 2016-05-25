@@ -20,3 +20,4 @@
 //     instance.contador.set(instance.contador.get() + 1);
 //   }
 // });
+Session.set('pageTitle', 'Microscopio');
