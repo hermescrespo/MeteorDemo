@@ -24,7 +24,7 @@
 
 Template.postsList.helpers({
     posts: function(){
-        //Filtrando datos en el cliente
+        // (2) Filtrando datos en el cliente
         return Posts.find({author: 'VirtualSoft Academy', url: 'http://www.virtualsoftacademy.com/meteor'});
     }
 });

@@ -1,3 +1,5 @@
+<!--Routing: Creando el layout principal que por defecto reemplazará a <body>-->
+
 <template name="layout">
     <div class="container">
         <!--navbar y navbar-* son clases definidas en boostrap-->
@@ -7,7 +9,7 @@
             </div>
         </header>
         <div id="main">
-            {{> yield}}
+            {{> yield}} <!--Routing: El router toma el control del contenido, ello se indica con yield-->
         </div>
     </div>
 </template>

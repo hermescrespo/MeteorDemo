@@ -1,7 +1,8 @@
 /**
- * Created by PlanificacionAdmin on 23/05/2016.
+ * Created by VirtualSoft Academy on 23/05/2016.
  */
 
+//Si la BBDD está vacía entonces cargar estos datos por defecto
 if (Posts.find().count() === 0) {
     Posts.insert({
         title: 'Introducing Telescope',

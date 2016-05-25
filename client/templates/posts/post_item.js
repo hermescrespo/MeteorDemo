@@ -1,5 +1,5 @@
 /**
- * Created by PlanificacionAdmin on 17/05/2016.
+ * Created by VirtualSoft Academy on 17/05/2016.
  */
 
 Template.postItem.helpers({
