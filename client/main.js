@@ -21,3 +21,7 @@
 //   }
 // });
 Session.set('pageTitle', 'Microscopio');
+
+Tracker.autorun(function() {
+    console.log('El título almacenado en la sesión es: '+Session.get('pageTitle'));
+});
