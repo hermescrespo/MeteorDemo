@@ -1,0 +1,11 @@
+<!--Routing: Creando el layout principal que por defecto reemplazará a <body>-->
+
+<template name="layout">
+    <div class="container">
+        {{> header}}
+
+        <div id="main">
+            {{> yield}} <!--Routing: El router toma el control del contenido, ello se indica con yield-->
+        </div>
+    </div>
+</template>
